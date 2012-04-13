@@ -13,4 +13,4 @@ while 1:
     print data
     if not data: break
     conn.sendall(data)
-conn.close()
+conn.close()sdfsdf
